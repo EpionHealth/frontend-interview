@@ -1,7 +1,7 @@
 const FAMILY_SUBSTANCES = [
   { name: "family_alcohol", label: "Alcohol" },
   { name: "family_illegal_drugs", label: "Illegal Drugs" },
-  { name: "family_presription_drugs", label: "Prescription Drugs" },
+  { name: "family_prescription_drugs", label: "Prescription Drugs" },
 ];
 
 const PERSONAL_SUBSTANCES = [
